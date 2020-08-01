@@ -1,6 +1,6 @@
 [![RealWorld Frontend](https://img.shields.io/badge/realworld-frontend-%23783578.svg)](http://realworld.io)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-![badge](https://action-badges.now.sh/phugodness/vue-realworld-example-app)
+![badge](https://action-badges.now.sh/phugodness/vue-realworld-example-app?action=build)
 
 => https://phugodness.github.io/vue-realworld-example-app/
 
